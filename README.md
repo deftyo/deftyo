@@ -21,6 +21,6 @@ Full-stack engineer with 9 years of production Laravel/PHP. I build operational 
 | Project | Stack | What it is |
 |---|---|---|
 | [Daftro](https://github.com/deftyo/Daftro) | Node.js · PostgreSQL · React · Docker · Jest | Self-hosted retrospective dashboard. 139 Jest tests, VAPID push, Docker. |
-| [RunningAwayWithIt] | Node.js · PostgreSQL · React  | Running personal project. |
+| [RunningAwayWithIt](https://github.com/deftyo/RunningAwayWithit) | Node.js · PostgreSQL · React  | Running personal project. |
 ---
 [linkedin.com/in/matthewthompsondavies](https://www.linkedin.com/in/matthewthompsondavies/) · matthew_thompson_davies@hotmail.co.uk
