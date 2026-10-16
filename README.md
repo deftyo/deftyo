@@ -4,7 +4,7 @@
 
 Full-stack engineer with 13 years of production experience across Laravel/PHP and Vue 3. I build operational software - insurance platforms, franchise management, field technician tooling - and care about testing discipline, CI/CD, and engineering quality.
 
-Currently sole developer on an offline-first PWA serving 70+ franchisees, spanning architecture, CI/CD, and stakeholder delivery.
+Currently sole developer on an offline-first PWA serving 50+ franchisees, spanning architecture, CI/CD, and stakeholder delivery.
 
 ---
 
